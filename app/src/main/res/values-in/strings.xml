@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Github User</string>
+    <string name="name">Nama Lengkap</string>
+    <string name="username">Username</string>
+    <string name="repository">Repositori</string>
+    <string name="followers">Pengikut</string>
+    <string name="following">Diikuti</string>
+    <string name="company">Perusahaan</string>
+    <string name="location">Alamat</string>
+    <string name="url">Tautan Github: %1$s</string>
+    <string name="searchUser">Masukkan Nama Pengguna…</string>
+    <string name="noFollowers">Pengguna tidak memiliki pengikut</string>
+    <string name="noFollowing">Pengguna tidak mengikuti siapapun</string>
+    <string name="followingTab">Diikuti</string>
+    <string name="followersTab">Pengikut</string>
+    <string name="languageSetting">Bahasa</string>
+
+
+</resources>

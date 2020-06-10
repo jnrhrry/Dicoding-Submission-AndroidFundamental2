@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Github User</string>
+    <string name="name">Vollständiger Name</string>
+    <string name="username">Nutzername</string>
+    <string name="repository">Repository</string>
+    <string name="followers">Anhänger</string>
+    <string name="following">Folgen</string>
+    <string name="company">Unternehmen</string>
+    <string name="location">Standort</string>
+    <string name="url">Github Link: %1$s</string>
+    <string name="searchUser">Profil suchen…</string>
+    <string name="noFollowers">Der Benutzer hatte keinen Follower</string>
+    <string name="noFollowing">Benutzer folgt niemandem</string>
+    <string name="followingTab">Anhänger</string>
+    <string name="followersTab">Folgen</string>
+    <string name="languageSetting">Sprache</string>
+
+
+</resources>
